@@ -34,7 +34,7 @@ Al desinstalar la extensión, Chrome elimina todos sus datos locales.
 
 ## Contacto
 
-d4v1d1124@gmail.com
+d4v1d1126@gmail.com
 
 ---
 
@@ -74,4 +74,4 @@ When you uninstall the extension, Chrome removes all of its local data.
 
 ## Contact
 
-d4v1d1124@gmail.com
+d4v1d1126@gmail.com
